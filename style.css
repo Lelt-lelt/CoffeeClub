@@ -1,0 +1,195 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div#header{
+	margin: 0 550px;
+}
+div#header h1{
+	font-family: 'dancing_script';
+	padding-top: 35px; 
+}
+
+div#header img{
+	width: 150px; 
+	height: 100px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
+
+#nav{
+	width: 100%;
+	background: #4E342E;
+}
+
+.nav_ul{
+	padding-left: 50px;
+}
+
+#nav .nav_ul li{
+	list-style: none;
+	float: left;
+}
+
+#nav .nav_ul li a{
+	color: #fff;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: Sen;
+}
+
+#nav .nav_ul li a:hover, .active{
+	background-color: #5D4037;
+}
+div#slider img{
+	object-fit: cover;
+}
+div.quote{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	top: 35%;
+	left: 40%;
+	padding: 30px;
+	font-family:Myanmar3,Yunghkio;
+}
+.heading{
+	font-family: Sen;
+}
+.heading h3{
+	text-align: center;
+	margin-top: 50px;
+}
+.heading hr{
+	width: 700px;
+	margin-left: 390px;
+	margin-top: 20px;
+}
+.heading p{
+	margin-top: 20px;
+	text-align: center;
+	line-height: 1.5em;
+	word-spacing: 3px;
+}
+#offer{
+	font-family: Sen;
+	line-height: 1.5em;
+	padding: 0 130px;
+}
+#offer .offer1 img{
+	width: 150px;
+	height: 150px;
+	margin: 40px 120px;
+}
+#offer .offer1 p{
+	margin: 0 100px;
+	text-align: center;
+	word-spacing: 3px;
+	line-height: 1.5em;
+	width: 170px;
+}
+#offer .offer2 img{
+	width: 150px;
+	height: 150px;
+	margin: 40px 120px;
+}
+#offer .offer2 p{
+	margin: 0 100px;
+	text-align: center;
+	word-spacing: 3px;
+	line-height: 1.5em;
+	width: 170px;
+}
+#offer .offer3 img{
+	width: 150px;
+	height: 150px;
+	margin: 40px 120px;
+}
+#offer .offer3 p{
+	margin: 0 100px;
+	text-align: center;
+	word-spacing: 3px;
+	line-height: 1.5em;
+	width: 170px;
+}
+#offer .offer1,.offer2,.offer3{
+	float: left;
+}
+#offer .clear{
+	clear: both;
+}
+#shop{
+	font-family: Sen;
+}
+
+#shop .shop1{
+	float: left;
+}
+#shop .shop1 img{
+	width: 400px;
+	height: 300px;
+	margin: 60px 50px 0 200px;
+
+}
+#shop .shop2 h4{
+	word-spacing: 3px;
+	padding: 60px 0 50px 0;
+}
+#shop .shop2 p{
+	padding-right: 250px;
+	line-height: 1.5em;
+	height: 300px;
+	text-align: justify;
+}
+#special .special1 img{
+	width: 500px;
+	height: 300px;
+	margin: 50px 100px 50px 200px;
+	float: left;
+}
+#special .special2 img{
+	width: 400px;
+	height: 300px;
+	margin: 50px 0;
+	
+}
+#menu {
+	font-family: Sen;
+}
+#menu .menu1 img{
+	width: 200px;
+	height: 300px;
+	margin: 50px 100px 50px 200px;
+	float: left;
+}
+#menu .menu2 h4{
+	padding: 50px;
+}
+#menu .menu2 ol{
+	line-height: 1.5em;
+	word-spacing: 3px;
+}
+#foot{
+	font-family: Sen;
+}
+#foot .foot1 {
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 200px; 
+	float: left;
+	background-color: #4E342E;
+	color: #fff;
+}
+#foot .foot2 {
+	padding-left: 500px;
+	color: #fff;
+}
+hr{
+	border-top: 1px solid #000;
+}
